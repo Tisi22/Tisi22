@@ -1,7 +1,7 @@
 ### <div align="center">I'm Tisa, a full-time full-stack freelance developer 👩‍🎓 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [MintWorld](https://github.com/mintworld)  
+- 🔭 I’m currently working on [MintWorld](https://github.com/mintworldgame)  
   
 
 <br/>  
