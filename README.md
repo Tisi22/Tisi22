@@ -27,7 +27,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="[https://unity.com/](https://docs.soliditylang.org/en/latest/index.html)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Solidity" height="50" /></a>
+<a href="https://docs.soliditylang.org/en/latest/index.html" target="_blank"><img style="margin: 10px" src="https://docs.soliditylang.org/en/latest/_static/logo.svg" alt="Solidity" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
