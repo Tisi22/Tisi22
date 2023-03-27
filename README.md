@@ -1,7 +1,8 @@
 ### <div align="center">I'm Tisa, a full-time full-stack freelance developer 👩‍🎓 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [MintWorld](https://github.com/mintworldgame)  
+- 🔭 I’m currently working on [MintWorld](https://github.com/mintworldgame) - Solidity/Unity
+- 🔭 I’m currently working on [Cantoverse](https://cantoverse.net) - Solidity/Unity
   
 
 <br/>  
@@ -44,6 +45,13 @@
 
 <br/>  
 
+### Hackathons & Bootcamps
+<div align="center"> 
+* [Solidity-Bootcamp-mns](https://github.com/Tisi22/Solidity-Bootcamp-mns)
+
+</div>
+
+<br />
 
 ## Connect with me  
 <div align="center">
