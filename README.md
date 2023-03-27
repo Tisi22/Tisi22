@@ -46,7 +46,7 @@
 <br/>  
 
 ### Hackathons & Bootcamps
-<tr><td valign="top" width="33%">
+---
 
 * [Solidity-Bootcamp-mns](https://github.com/Tisi22/Solidity-Bootcamp-mns)
 * [ethglobal-filecoin-hackathon-Splychain](https://github.com/Tisi22/ethglobal-filecoin-hackathon-Splychain)
