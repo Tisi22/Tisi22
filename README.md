@@ -46,10 +46,8 @@
 <br/>  
 
 ### Hackathons & Bootcamps
-<div align="center"> 
-* [Solidity-Bootcamp-mns](https://github.com/Tisi22/Solidity-Bootcamp-mns)
 
-</div>
+* [Solidity-Bootcamp-mns](https://github.com/Tisi22/Solidity-Bootcamp-mns)
 
 <br />
 
