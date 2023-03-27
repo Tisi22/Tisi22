@@ -45,15 +45,17 @@
 
 <br/>  
 
-### Hackathons & Bootcamps
----
+## Hackathons & Bootcamps
+<div>
 
-* [Solidity-Bootcamp-mns](https://github.com/Tisi22/Solidity-Bootcamp-mns)
-* [ethglobal-filecoin-hackathon-Splychain](https://github.com/Tisi22/ethglobal-filecoin-hackathon-Splychain)
-* [canto-hackathon-Cantoverse](https://github.com/Tisi22/chapter_1_season_5)
-* [ethloblal-hackathon-Tick3t](https://github.com/Tisi22/ethloblal-hackathon-Tick3t)
-* [canto-hackathon-MintWorld](https://github.com/Tisi22/canto-hackathon-MintWorld)
-
+<ul>
+  <li><a href="https://github.com/Tisi22/Solidity-Bootcamp-mns">Solidity-Bootcamp-mns</a></li>
+  <li><a href="https://github.com/Tisi22/ethglobal-filecoin-hackathon-Splychain">ethglobal-filecoin-hackathon-Splychain</a></li>
+  <li><a href="https://github.com/Tisi22/chapter_1_season_5">canto-hackathon-Cantoverse</a></li>
+  <li><a href="https://github.com/Tisi22/ethloblal-hackathon-Tick3t">ethloblal-hackathon-Tick3t</a></li>
+  <li><a href="https://github.com/Tisi22/canto-hackathon-MintWorld">canto-hackathon-MintWorld</a></li>
+</ul>
+</div>
 <br />
 
 ## Connect with me  
