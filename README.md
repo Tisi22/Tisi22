@@ -49,7 +49,7 @@
 <div>
 
 <ul>
-  <li><a href="https://github.com/Tisi22/canto-hackathon-MintWorld">canto-hackathon-MintWorld</a></li>
+  <li><a href="https://github.com/Tisi22/chapter_1_season_6">canto-hackathon-MintWorld</a></li>
   <li><a href="https://github.com/Tisi22/Solidity-Bootcamp-mns">Solidity-Bootcamp-mns</a></li>
   <li><a href="https://github.com/Tisi22/ethglobal-filecoin-hackathon-Splychain">ethglobal-filecoin-hackathon-Splychain</a></li>
   <li><a href="https://github.com/Tisi22/chapter_1_season_5">canto-hackathon-Cantoverse</a></li>
