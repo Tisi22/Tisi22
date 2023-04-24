@@ -49,6 +49,7 @@
 <div>
 
 <ul>
+  <li><a href="https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU">MintWorld winner NFT Category at the Canto Hackathon Chapter 1 Season 6</a></li>
   <li><a href="https://github.com/Tisi22/chapter_1_season_6">canto-hackathon-MintWorld</a></li>
   <li><a href="https://github.com/Tisi22/Solidity-Bootcamp-mns">Solidity-Bootcamp-mns</a></li>
   <li><a href="https://github.com/Tisi22/ethglobal-filecoin-hackathon-Splychain">ethglobal-filecoin-hackathon-Splychain</a></li>
