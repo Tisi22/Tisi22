@@ -49,6 +49,8 @@
 <div>
 
 <ul>
+  <li><a href="https://ethglobal.com/showcase/alice-wsh36">Alice winner Best AI Project Gnosis Chain at ETH Global Lisbon Hackathon</a></li>
+  <li><a href="https://github.com/Tisi22/alice-ethlisbon">Alice-EthGoblalLisbon-hackathon</a></li>
   <li><a href="https://www.youtube.com/watch?v=dsmLOrXLMGQ">MintWorld winner NFT Category at the Canto Hackathon Chapter 1 Season 6 (Video)</a></li>
   <li><a href="https://github.com/Tisi22/chapter_1_season_6">canto-hackathon-MintWorld</a></li>
   <li><a href="https://github.com/Tisi22/Solidity-Bootcamp-mns">Solidity-Bootcamp-mns</a></li>
