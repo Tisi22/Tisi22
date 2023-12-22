@@ -2,7 +2,8 @@
   
 
 - 🔭 I’m currently working on [MintWorld](https://github.com/mintworldgame) - Solidity/Unity
-- 🔭 I’m currently working on [Cantoverse](https://cantoverse.net) - Solidity/Unity
+- 🔭 I’m currently working on [Wild Friends](https://wildfriends.xyz/) - Solidity/Unity
+- - 🔭 I’m currently working on Fides - Solidity
   
 
 <br/>  
